@@ -1,11 +1,5 @@
 <?php 
 
-if (isset($_POST['submit'])) {
-$etunimi=$_POST['Etunimi'];
-$sukunimi=$_POST['Sukunimi']; 
-$viesti=$_POST['viesti'];
-	
-}
 
 $host="localhost";
 $user="root"; 
